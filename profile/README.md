@@ -2,7 +2,7 @@
 
 <div align="left">
    <img src="https://github.com/physicalintelligencelab/.github/blob/main/image-removebg-preview%20(1).png?raw=true" alt="Lab Logo" width="220"/>
-  <img src="https://github.com/physicalintelligencelab/.github/blob/main/cmu.png?raw=true" alt="CMU Logo" width="110"/>
+  <img src="https://github.com/physicalintelligencelab/.github/blob/main/image-removebg-preview%20(2).png?raw=true" alt="CMU Logo" width="110"/>
 </div>
 
 
