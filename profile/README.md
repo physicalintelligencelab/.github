@@ -6,7 +6,7 @@ We are a diverse team of neuroscientists, computer scientists, and engineers �
 
 *We expect our findings to not only generate new insights into learning and memory but also optimize rehabilitation and improve human performance. ✨ 🎯*
 
-[Check out our website for more information!](https://www.tsaylab.com/)**
+[Check out our website for more information!](https://www.tsaylab.com/)
 
 Read some recent work:
 - **[Fundamental Processes in Sensorimotor Learning: Reasoning, Refinement, and Retrieval](https://www.dropbox.com/scl/fi/vbwu7bcmir29nnfpdaqj1/3R_Framework_eLife_2024.pdf?rlkey=lfh4hpzuss8r15ly74g0iw472&e=1&dl=0)**
