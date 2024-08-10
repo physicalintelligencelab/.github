@@ -1,7 +1,7 @@
 # Welcome to Physical Intelligence Lab :wave: 
 
 <div align="left">
-   <img src="https://github.com/physicalintelligencelab/.github/blob/main/image/less.png?raw=true" alt="Lab Logo" width="200"/>
+   <img src="https://github.com/physicalintelligencelab/.github/blob/main/image-removebg-preview%20(1).png?raw=true" alt="Lab Logo" width="200"/>
   <img src="https://github.com/physicalintelligencelab/.github/blob/main/cmu.png?raw=true" alt="CMU Logo" width="150"/>
 </div>
 
