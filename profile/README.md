@@ -26,7 +26,7 @@
 
 ---
 
-## :tools: Recent Interest :tools:
+## Recent Interest
 
 Here are some of our most recent projects! :construction::open_file_folder: 
 
